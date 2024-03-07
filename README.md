@@ -38,8 +38,8 @@ Taipy 是一个开源 Python 库，可用于轻松的端到端应用程序开发
 </thead>
 <tbody>
 <tr>
-<td><a target="_blank" rel="noopener noreferrer" href="/Avaiga/taipy/blob/develop/readme_img/gui_creation.webp"><img src="/Avaiga/taipy/raw/develop/readme_img/gui_creation.webp" alt="界面动画" width="850px" height="250px" style="max-width: 100%;"></a></td>
-<td><animated-image data-catalyst="" style="width: 100%;"><a target="_blank" rel="noopener noreferrer" href="/Avaiga/taipy/blob/develop/readme_img/scenario_and_data_mgt.gif" data-target="animated-image.originalLink"><img src="/Avaiga/taipy/raw/develop/readme_img/scenario_and_data_mgt.gif" alt="后端动画" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+<td><a target="_blank" rel="noopener noreferrer" href="/Avaiga/taipy/blob/develop/readme_img/gui_creation.webp"><img src="https://github.com/Avaiga/taipy/raw/develop/readme_img/gui_creation.webp" alt="界面动画" width="850px" height="250px" style="max-width: 100%;"></a></td>
+<td><animated-image data-catalyst="" style="width: 100%;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/Avaiga/taipy/blob/develop/readme_img/scenario_and_data_mgt.gif" data-target="animated-image.originalLink"><img src="https://github.com/Avaiga/taipy/raw/develop/readme_img/scenario_and_data_mgt.gif" alt="后端动画" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://github.com/Avaiga/taipy/blob/develop/readme_img/scenario_and_data_mgt.gif" target="_blank">
           
